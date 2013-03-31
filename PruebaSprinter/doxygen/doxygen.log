@@ -1,0 +1,5 @@
+C:/Sprinter/Sprinter-master/Sprinter-master/Sprinter/speed_lookuptable.h:148: warning: documented symbol `const uint16_t speed_lookuptable_slow' was not declared or defined.
+Problems running latex. Check your installation or look for typos in _formulas.tex and check _formulas.log!
+Problems running dvips. Check your installation!
+C:/Sprinter/Sprinter-master/Sprinter-master/Sprinter/SdFatmainpage.h:116: warning: unable to resolve link to `Print::print()' for \link command
+C:/Sprinter/Sprinter-master/Sprinter-master/Sprinter/SdFatmainpage.h:117: warning: unable to resolve link to `Print::println()' for \link command
